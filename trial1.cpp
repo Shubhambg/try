@@ -6,5 +6,5 @@ int main()
 	circle(320,240,200);
 	getch( ) ;
 	closegraph();
-	return 0;
+	return 0
 }
